@@ -1,0 +1,69 @@
+{
+    "Lab Section": 11,
+    "Last Modified": 2018-10-4,
+    "OU ID": 113418174,
+    "OU EMAIL": peyton.w.richardson-1@ou.edu,
+    "Tasks": [
+        {
+            "Description": "Create statistics Constructors",
+            "Estimated Time (Minutes)": 2,
+            "Actual Time (Minutes)": 5,
+        },   
+        {
+            "Description": "Create date from string methods",
+            "Estimated Time (Minutes)": 4 ,
+            "Actual Time (Minutes)": 6,
+        },    
+        {
+            "Description": "Create newerThan method",
+            "Estimated Time (Minutes)": 2 ,
+            "Actual Time (Minutes)": 2,
+        },
+        {
+            "Description": "Create olderThan method",
+            "Estimated Time (Minutes)": 2,
+            "Actual Time (Minutes)": 1,
+        },
+        {
+            "Description": "Create sameAs method",
+            "Estimated Time (Minutes)": 2,
+            "Actual Time (Minutes)": 1,
+        },
+        {
+            "Description": "Create statistics toString",
+            "Estimated Time (Minutes)": 2,
+            "Actual Time (Minutes)": 1,
+        },
+        {
+            "Description": "Create StatsType enumeration",
+            "Estimated Time (Minutes)": 1,
+            "Actual Time (Minutes)": 3,
+        },
+        {
+            "Description": "Create DateTimeComparable methods",
+            "Estimated Time (Minutes)": 7,
+            "Actual Time (Minutes)": 1,
+        },
+        {
+            "Description": "Create abstractObservation constructor",
+            "Estimated Time (Minutes)": 1,
+            "Actual Time (Minutes)": 1,
+        },
+        {
+            "Description": "Create calculateStatistics method",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 30,
+        },
+        {
+            "Description": "Create parseParamHeader method",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 7 ,
+        },
+        {
+            "Description": "write tests",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)":  ,
+        },
+        
+    ]
+}
